@@ -1,3 +1,2 @@
-# alex-smith
-iPortfolio - Bootstrap Portfolio Websites Template
+# Jaimin Solanki
 "# My-Portfolio" 
